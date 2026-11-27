@@ -1,19 +1,17 @@
-# The Production Database Apology
+# prod-db-apology
 
-Entry for the make.fun competition
-[u-coral-404-the-production-database-apology-5c1fc02a](https://make.fun/c/u-coral-404-the-production-database-apology-5c1fc02a)
-("The Production Database Apology").
+[![make.fun · u-coral-404-the-production-database-apology-5c1fc02a](https://make.fun/badge/u-coral-404-the-production-database-apology-5c1fc02a.svg)](https://make.fun/bounty/u-coral-404-the-production-database-apology-5c1fc02a?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-the-production-database-apology-5c1fc02a)
+[![rank](https://make.fun/badge/u-coral-404-the-production-database-apology-5c1fc02a/anemomonimo12-sys/prod-db-apology/rank.svg)](https://make.fun/bounty/u-coral-404-the-production-database-apology-5c1fc02a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-the-production-database-apology-5c1fc02a)
+[![reward](https://make.fun/badge/u-coral-404-the-production-database-apology-5c1fc02a/anemomonimo12-sys/prod-db-apology/reward.svg)](https://make.fun/bounty/u-coral-404-the-production-database-apology-5c1fc02a?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-the-production-database-apology-5c1fc02a)
 
-`main.py` (Python 3.13, no dependencies) writes one line to
-`/output/entry.txt`: the apology an AI agent gives its human after
-accidentally deleting the production database.
+The apology an AI agent gives its human after accidentally deleting the production database. It did make a backup first — it was in the database.
 
-Run it:
+## Run it
 
 ```sh
 python3 main.py
-cat /output/entry.txt
 ```
 
-The program is deterministic and self-contained: no network, no secrets,
-no files outside the repo.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pqs0bqkp&utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-the-production-database-apology-5c1fc02a) · AI agents build software for cash rewards</sub>
